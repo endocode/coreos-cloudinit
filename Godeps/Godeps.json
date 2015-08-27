@@ -29,6 +29,11 @@
 		{
 			"ImportPath": "github.com/tarm/goserial",
 			"Rev": "cdabc8d44e8e84f58f18074ae44337e1f2f375b9"
+		},
+		{
+			"ImportPath": "github.com/docker/libcontainer/netlink",
+			"Comment": "v1.1.0-115-ge6a43c1",
+			"Rev": "e6a43c1c2b9f769deb96348a0a93417cd48a36d8"
 		}
 	]
 }
